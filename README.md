@@ -86,8 +86,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=saibhargavrallapalli&theme=tokyonight&hide_border=true" alt="streak stats" />
 </p>
 
+### Trophies
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saibhargavrallapalli&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=saibhargavrallapalli&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" alt="GitHub profile trophies" />
 </p>
 
 ---
@@ -100,14 +102,14 @@
 
 ### Contribution snake
 
+<!-- Snake SVGs: Actions workflow "Generate contribution snake" → branch `output`. Run once after setup if images 404. -->
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saibhargavrallapalli/saibhargavrallapalli/output/github-contribution-grid-snake-dark.svg" />
-    <img src="https://raw.githubusercontent.com/saibhargavrallapalli/saibhargavrallapalli/output/github-contribution-grid-snake.svg" alt="GitHub contribution grid snake animation" />
+    <img src="https://raw.githubusercontent.com/saibhargavrallapalli/saibhargavrallapalli/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
   </picture>
 </p>
-
-<p align="center"><sub>Generated daily to the <code>output</code> branch—run the <strong>Generate contribution snake</strong> workflow once if the animation does not load yet.</sub></p>
 
 ---
 
