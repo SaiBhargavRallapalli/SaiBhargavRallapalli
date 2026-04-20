@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="200" viewBox="0 0 800 200" role="img" aria-label="Contribution snake placeholder">
+  <rect width="800" height="200" fill="#f6f8fa" rx="12"/>
+  <text x="400" y="88" fill="#24292f" font-family="ui-sans-serif,system-ui,sans-serif" font-size="18" font-weight="600" text-anchor="middle">Contribution snake</text>
+  <text x="400" y="118" fill="#57606a" font-family="ui-sans-serif,system-ui,sans-serif" font-size="13" text-anchor="middle">Placeholder  GitHub Actions will replace this with your live animation.</text>
+</svg>
