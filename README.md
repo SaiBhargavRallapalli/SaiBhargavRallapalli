@@ -1,49 +1,120 @@
-<h1 align="center">Hi 👋, I'm Sai Bhargav Rallapalli</h1>
-<h3 align="center">A passionate Conversational AI developer from India</h3>
+<h1 align="center">Hi, I'm Sai Bhargav Rallapalli</h1>
+<h3 align="center">Conversational AI Engineer · Building Voice Agents & LLM-powered Systems</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saibhargavrallapalli&label=Profile%20views&color=0e75b6&style=flat" alt="saibhargavrallapalli" /> </p>
+<p align="center">
+  <a href="https://linkedin.com/in/sai-bhargav-rallapalli"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/rs_bhargav"><img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://saibhargavr.medium.com/"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
+  <a href="https://kaggle.com/rsbhargav"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
+  <a href="mailto:saibhargavrallapalli@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saibhargavrallapalli" alt="saibhargavrallapalli" /></a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=saibhargavrallapalli&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/saibhargavrallapalli?label=Followers&style=flat&color=0e75b6" alt="followers" />
+</p>
 
-<p align="left"> <a href="https://twitter.com/rs_bhargav" target="blank"><img src="https://img.shields.io/twitter/follow/rs_bhargav?logo=twitter&style=for-the-badge" alt="rs_bhargav" /></a> </p>
+---
 
-- 🔭 I’m currently working on **Conversational Voice Agents**
+### About me
 
-- 🌱 I’m currently learning **Langgraph, AutoGen**
+- 🔭 Currently building **conversational voice agents** — low-latency, real-time, production-grade
+- 🌱 Going deep on **LangGraph**, **AutoGen**, agent orchestration, and evals
+- 🧠 Interested in **multi-agent systems**, **RAG**, **speech I/O (STT/TTS)**, and **tool-using LLMs**
+- 👯 Open to collaborating on **agentic apps**, **Node.js / Python** backends, and **voice AI**
+- ✍️ I write about AI & engineering on [Medium](https://saibhargavr.medium.com/)
+- 💬 Ask me about **Agents, LLMs, and Voice AI**
+- 📫 Reach me at **saibhargavrallapalli@gmail.com**
 
-- 👯 I’m looking to collaborate on **Node JS, Python, Building Agents**
+---
 
-- 👨‍💻 All of my projects are available at [https://github.com/SaiBhargavRallapalli](https://github.com/SaiBhargavRallapalli)
+### Tech stack
 
-- 📝 I regularly write articles on [https://saibhargavr.medium.com/](https://saibhargavr.medium.com/)
+**Languages**
 
-- 💬 Ask me about **Agents**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+</p>
 
-- 📫 How to reach me **saibhargavrallapalli@gmail.com**
+**AI / Agents**
 
-### Blogs posts
+<p>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/AutoGen-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge&logo=meta&logoColor=white" />
+</p>
+
+**Backend & Frameworks**
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
+</p>
+
+**Data & Infra**
+
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+---
+
+### GitHub stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=saibhargavrallapalli&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saibhargavrallapalli&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saibhargavrallapalli&theme=tokyonight&hide_border=true" alt="streak stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=saibhargavrallapalli&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" alt="trophies" />
+</p>
+
+---
+
+### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/rs_bhargav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rs_bhargav" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sai-bhargav-rallapalli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sai-bhargav-rallapalli" height="30" width="40" /></a>
-<a href="https://kaggle.com/rsbhargav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rsbhargav" height="30" width="40" /></a>
-<a href="https://medium.com/@saibhargavr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@saibhargavr" height="30" width="40" /></a>
+---
+
+### Contribution snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saibhargavrallapalli/saibhargavrallapalli/output/github-contribution-grid-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/saibhargavrallapalli/saibhargavrallapalli/output/github-contribution-grid-snake.svg" alt="GitHub contribution grid snake animation" />
+  </picture>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="center"><sub>Generated daily to the <code>output</code> branch—run the <strong>Generate contribution snake</strong> workflow once if the animation does not load yet.</sub></p>
 
+---
 
-<h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/saibhargavrallapalli"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="saibhargavrallapalli" /></a></p><br><br>
+<p align="center">
+  <a href="https://ko-fi.com/saibhargavrallapalli">
+    <img src="https://img.shields.io/badge/Support_me_on_Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi" />
+  </a>
+</p>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saibhargavrallapalli&show_icons=true&locale=en&layout=compact" alt="saibhargavrallapalli" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saibhargavrallapalli&show_icons=true&locale=en" alt="saibhargavrallapalli" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saibhargavrallapalli&" alt="saibhargavrallapalli" /></p>
-
+<p align="center"><i>“The best way to predict the future is to build it.”</i></p>
