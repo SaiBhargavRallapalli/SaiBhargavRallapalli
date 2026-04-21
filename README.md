@@ -95,13 +95,7 @@
 ---
 
 ### Latest blog posts
-<!-- BLOG-POST-LIST:START -->
-- 📝 [The Person Who Built Copilot Is Now Questioning Everything About It](https://pub.towardsai.net/the-person-who-built-copilot-is-now-questioning-everything-about-it-4964879bc564?source=rss-b6457c7901af------2)
-- 💡 [Is AI Making Kubernetes Invisible?](https://saibhargavr.medium.com/is-ai-making-kubernetes-invisible-b9230eeced6d?source=rss-b6457c7901af------2)
-- 🚀 [I Attended GitHub Constellation 2026 in Bengaluru — Here’s What Left Me Unsettled](https://pub.towardsai.net/i-attended-github-constellation-2026-in-bengaluru-heres-what-left-me-unsettled-f6d282785e38?source=rss-b6457c7901af------2)
-- 📝 [Sarvam AI Explained — How India Built a Globally Competitive LLM](https://pub.towardsai.net/sarvam-ai-explained-how-india-built-a-globally-competitive-llm-e082bee60bb6?source=rss-b6457c7901af------2)
-- 💡 [What Running AI at Swiggy Scale Actually Looks Like](https://medium.com/write-a-catalyst/what-running-ai-at-swiggy-scale-actually-looks-like-e03a5819c4bd?source=rss-b6457c7901af------2)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- 🚀 [The Person Who Built Copilot Is Now Questioning Everything About It](https://pub.towardsai.net/the-person-who-built-copilot-is-now-questioning-everything-about-it-4964879bc564?source=rss-b6457c7901af------2)- 💡 [Is AI Making Kubernetes Invisible?](https://saibhargavr.medium.com/is-ai-making-kubernetes-invisible-b9230eeced6d?source=rss-b6457c7901af------2)- 🚀 [I Attended GitHub Constellation 2026 in Bengaluru — Here’s What Left Me Unsettled](https://pub.towardsai.net/i-attended-github-constellation-2026-in-bengaluru-heres-what-left-me-unsettled-f6d282785e38?source=rss-b6457c7901af------2)- 🚀 [Sarvam AI Explained — How India Built a Globally Competitive LLM](https://pub.towardsai.net/sarvam-ai-explained-how-india-built-a-globally-competitive-llm-e082bee60bb6?source=rss-b6457c7901af------2)- 💡 [What Running AI at Swiggy Scale Actually Looks Like](https://medium.com/write-a-catalyst/what-running-ai-at-swiggy-scale-actually-looks-like-e03a5819c4bd?source=rss-b6457c7901af------2)<!-- BLOG-POST-LIST:END -->
 
 ---
 
