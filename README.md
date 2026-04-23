@@ -1,20 +1,20 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Sai%20Bhargav%20Rallapalli&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Conversational%20AI%20Engineer%20%E2%80%94%20Building%20Voice%20Agents%20%26%20LLM-Powered%20Systems&descAlignY=58&descSize=16&descColor=a0a0d0&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f0c29,50:302b63,100:24243e&amp;height=200&amp;section=header&amp;text=Sai%20Bhargav%20Rallapalli&amp;fontColor=ffffff&amp;fontSize=42&amp;fontAlignY=38&amp;desc=Conversational%20AI%20Engineer%20%E2%80%94%20Building%20Voice%20Agents%20%26%20LLM-Powered%20Systems&amp;descAlignY=58&amp;descSize=16&amp;descColor=a0a0d0&amp;animation=fadeIn" width="100%" />
 
 <p align="center">
-  <a href="https://linkedin.com/in/sai-bhargav-rallapalli"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/rs_bhargav"><img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="https://saibhargavr.medium.com/"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
-  <a href="https://kaggle.com/rsbhargav"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
-  <a href="mailto:saibhargavrallapalli@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/sai-bhargav-rallapalli"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" /></a>
+  <a href="https://twitter.com/rs_bhargav"><img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&amp;logo=x&amp;logoColor=white" /></a>
+  <a href="https://saibhargavr.medium.com/"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&amp;logo=medium&amp;logoColor=white" /></a>
+  <a href="https://kaggle.com/rsbhargav"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&amp;logo=kaggle&amp;logoColor=white" /></a>
+  <a href="mailto:saibhargavrallapalli@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" /></a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=7C86FF&center=true&vCenter=true&width=600&lines=Voice+Agents+%7C+Multi-Agent+Systems+%7C+RAG;Low-latency+%E2%80%A2+Real-time+%E2%80%A2+Production-grade;LangGraph+%7C+AutoGen+%7C+LLM+Orchestration;Building+the+next+generation+of+AI+interfaces" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=18&amp;pause=1000&amp;color=7C86FF&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Voice+Agents+%7C+Multi-Agent+Systems+%7C+RAG;Low-latency+%E2%80%A2+Real-time+%E2%80%A2+Production-grade;LangGraph+%7C+AutoGen+%7C+LLM+Orchestration;Building+the+next+generation+of+AI+interfaces" alt="Typing animation" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=saibhargavrallapalli&label=Profile+views&color=7C86FF&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/saibhargavrallapalli?label=Followers&style=flat-square&color=7C86FF" />
+  <img src="https://komarev.com/ghpvc/?username=saibhargavrallapalli&amp;label=Profile+views&amp;color=7C86FF&amp;style=flat-square" />
+  <img src="https://img.shields.io/github/followers/saibhargavrallapalli?label=Followers&amp;style=flat-square&amp;color=7C86FF" />
 </p>
 
 ---
@@ -81,16 +81,16 @@ Voice  →  STT  →  LLM Agent  →  Tool Use  →  TTS  →  Voice
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=saibhargavrallapalli&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saibhargavrallapalli&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=saibhargavrallapalli&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true&amp;include_all_commits=true&amp;rank_icon=github" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saibhargavrallapalli&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=8" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saibhargavrallapalli&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saibhargavrallapalli&amp;theme=tokyonight&amp;hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saibhargavrallapalli&theme=tokyo-night&hide_border=true&area=true" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saibhargavrallapalli&amp;theme=tokyo-night&amp;hide_border=true&amp;area=true" width="95%" />
 </p>
 
 ---
@@ -112,7 +112,7 @@ Voice  →  STT  →  LLM Agent  →  Tool Use  →  TTS  →  Voice
 ## 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saibhargavrallapalli&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" />
+  <img src="https://github-profile-trophy.vercel.app/?username=saibhargavrallapalli&amp;theme=tokyonight&amp;no-frame=true&amp;row=1&amp;column=7&amp;margin-w=8" />
 </p>
 
 ---
@@ -135,8 +135,8 @@ Voice  →  STT  →  LLM Agent  →  Tool Use  →  TTS  →  Voice
 
 <p align="center">
   <a href="https://ko-fi.com/saibhargavrallapalli">
-    <img src="https://img.shields.io/badge/Support_on_Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" />
+    <img src="https://img.shields.io/badge/Support_on_Ko--fi-FF5E5B?style=for-the-badge&amp;logo=ko-fi&amp;logoColor=white" />
   </a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:24243e,50:302b63,100:0f0c29&amp;height=120&amp;section=footer" width="100%" />
