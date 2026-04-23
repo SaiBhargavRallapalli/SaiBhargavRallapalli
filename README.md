@@ -1,4 +1,25 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f0c29,50:302b63,100:24243e&amp;height=200&amp;section=header&amp;text=Sai%20Bhargav%20Rallapalli&amp;fontColor=ffffff&amp;fontSize=42&amp;fontAlignY=38&amp;desc=Conversational%20AI%20Engineer%20%E2%80%94%20Building%20Voice%20Agents%20%26%20LLM-Powered%20Systems&amp;descAlignY=58&amp;descSize=16&amp;descColor=a0a0d0&amp;animation=fadeIn" width="100%" />
+<p align="center">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 180" width="900">
+  <defs>
+    <linearGradient id="hbg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0f0c29"/>
+      <stop offset="50%" style="stop-color:#302b63"/>
+      <stop offset="100%" style="stop-color:#24243e"/>
+    </linearGradient>
+    <linearGradient id="acc" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#7C86FF"/>
+      <stop offset="100%" style="stop-color:#a78bfa"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="180" fill="url(#hbg)"/>
+  <path d="M0,140 C150,105 300,160 450,130 C600,100 750,155 900,120 L900,180 L0,180Z" fill="rgba(124,134,255,0.07)"/>
+  <path d="M0,158 C220,128 420,170 620,145 C770,125 860,152 900,140 L900,180 L0,180Z" fill="rgba(124,134,255,0.04)"/>
+  <text x="450" y="80" font-family="Segoe UI,system-ui,sans-serif" font-size="36" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">Sai Bhargav Rallapalli</text>
+  <rect x="180" y="95" width="540" height="1.5" fill="url(#acc)" rx="1" opacity="0.55"/>
+  <text x="450" y="126" font-family="Segoe UI,system-ui,sans-serif" font-size="14" fill="#a0a0d0" text-anchor="middle" letter-spacing="0.4">Conversational AI Engineer &middot; Voice Agents &middot; LLM-Powered Systems</text>
+  <text x="450" y="154" font-family="Segoe UI,system-ui,sans-serif" font-size="12" fill="#7C86FF" text-anchor="middle" letter-spacing="0.3" opacity="0.8">Bengaluru, India</text>
+</svg>
+</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/sai-bhargav-rallapalli"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" /></a>
@@ -9,7 +30,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=18&amp;pause=1000&amp;color=7C86FF&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Voice+Agents+%7C+Multi-Agent+Systems+%7C+RAG;Low-latency+%E2%80%A2+Real-time+%E2%80%A2+Production-grade;LangGraph+%7C+AutoGen+%7C+LLM+Orchestration;Building+the+next+generation+of+AI+interfaces" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=18&amp;pause=1000&amp;color=7C86FF&amp;center=true&amp;vCenter=true&amp;width=620&amp;lines=Voice+Agents+%7C+Multi-Agent+Systems+%7C+RAG;Low-latency+%E2%80%A2+Real-time+%E2%80%A2+Production-grade;LangGraph+%7C+AutoGen+%7C+LLM+Orchestration;Building+the+next+generation+of+AI+interfaces" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -25,8 +46,8 @@ I build **production-grade voice agents and LLM-powered systems** — things tha
 
 ```
 Voice  →  STT  →  LLM Agent  →  Tool Use  →  TTS  →  Voice
-                     ↕
-              Memory · RAG · Evals
+                       ↕
+                Memory · RAG · Evals
 ```
 
 ---
@@ -139,4 +160,16 @@ Voice  →  STT  →  LLM Agent  →  Tool Use  →  TTS  →  Voice
   </a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:24243e,50:302b63,100:0f0c29&amp;height=120&amp;section=footer" width="100%" />
+<p align="center">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 80" width="900">
+  <defs>
+    <linearGradient id="fbg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#24243e"/>
+      <stop offset="50%" style="stop-color:#302b63"/>
+      <stop offset="100%" style="stop-color:#0f0c29"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="80" fill="url(#fbg)"/>
+  <path d="M0,0 C150,40 300,10 450,30 C600,50 750,15 900,35 L900,0 L0,0Z" fill="rgba(124,134,255,0.06)"/>
+</svg>
+</p>
