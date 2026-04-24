@@ -26,18 +26,6 @@
 
 ---
 
-## 🧠 What I Do
-
-I build **production-grade voice agents and LLM-powered systems** — things that actually ship and survive real users. My work sits at the intersection of **low-latency speech I/O**, **agentic reasoning**, and **reliable infrastructure**.
-
-```
-Voice  →  STT  →  LLM Agent  →  Tool Use  →  TTS  →  Voice
-                       ↕
-                Memory · RAG · Evals
-```
-
----
-
 ## 🔭 Currently Building
 
 - 🎙️ **Conversational voice agents** — real-time, sub-second latency, production-hardened
@@ -113,14 +101,6 @@ Voice  →  STT  →  LLM Agent  →  Tool Use  →  TTS  →  Voice
 <!-- BLOG-POST-LIST:END -->
 
 > 📖 More on [Medium](https://saibhargavr.medium.com/) · Published in [Towards AI](https://pub.towardsai.net/)
-
----
-
-## 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saibhargavrallapalli&amp;theme=tokyonight&amp;no-frame=true&amp;row=1&amp;column=7&amp;margin-w=8" />
-</p>
 
 ---
 
