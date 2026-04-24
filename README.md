@@ -92,13 +92,7 @@
 
 ## ✍️ Latest Writing
 
-<!-- BLOG-POST-LIST:START -->
-- 🔐 [Your AI Agent Is a Security Risk. Here's How to Fix That.](https://saibhargavr.medium.com/your-ai-agent-is-a-security-risk-heres-how-to-fix-that-bc1c250cbbd7)
-- 💭 [The Person Who Built Copilot Is Now Questioning Everything About It](https://pub.towardsai.net/the-person-who-built-copilot-is-now-questioning-everything-about-it-4964879bc564)
-- ☸️ [Is AI Making Kubernetes Invisible?](https://saibhargavr.medium.com/is-ai-making-kubernetes-invisible-b9230eeced6d)
-- 🌐 [I Attended GitHub Constellation 2026 in Bengaluru — Here's What Left Me Unsettled](https://pub.towardsai.net/i-attended-github-constellation-2026-in-bengaluru-heres-what-left-me-unsettled-f6d282785e38)
-- 🇮🇳 [Sarvam AI Explained — How India Built a Globally Competitive LLM](https://pub.towardsai.net/sarvam-ai-explained-how-india-built-a-globally-competitive-llm-e082bee60bb6)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- 🚀 [Your AI Agent Is a Security Risk. Here’s How to Fix That.](https://saibhargavr.medium.com/your-ai-agent-is-a-security-risk-heres-how-to-fix-that-bc1c250cbbd7?source=rss-b6457c7901af------2)- 💡 [The Person Who Built Copilot Is Now Questioning Everything About It](https://pub.towardsai.net/the-person-who-built-copilot-is-now-questioning-everything-about-it-4964879bc564?source=rss-b6457c7901af------2)- 🚀 [Is AI Making Kubernetes Invisible?](https://saibhargavr.medium.com/is-ai-making-kubernetes-invisible-b9230eeced6d?source=rss-b6457c7901af------2)- 🚀 [I Attended GitHub Constellation 2026 in Bengaluru — Here’s What Left Me Unsettled](https://pub.towardsai.net/i-attended-github-constellation-2026-in-bengaluru-heres-what-left-me-unsettled-f6d282785e38?source=rss-b6457c7901af------2)- 💡 [Sarvam AI Explained — How India Built a Globally Competitive LLM](https://pub.towardsai.net/sarvam-ai-explained-how-india-built-a-globally-competitive-llm-e082bee60bb6?source=rss-b6457c7901af------2)<!-- BLOG-POST-LIST:END -->
 
 > 📖 More on [Medium](https://saibhargavr.medium.com/) · Published in [Towards AI](https://pub.towardsai.net/)
 
