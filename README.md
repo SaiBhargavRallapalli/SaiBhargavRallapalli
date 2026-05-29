@@ -1,28 +1,27 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f0c29,50:302b63,100:24243e&amp;height=200&amp;section=header&amp;text=Sai%20Bhargav%20Rallapalli&amp;fontColor=ffffff&amp;fontSize=44&amp;fontAlignY=40&amp;animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Sai%20Bhargav%20Rallapalli&fontColor=ffffff&fontSize=44&fontAlignY=40&animation=fadeIn" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=16&amp;pause=1200&amp;color=a0a0d0&amp;center=true&amp;vCenter=true&amp;width=620&amp;lines=Conversational+AI+Engineer+%C2%B7+Voice+Agents+%C2%B7+LLM-Powered+Systems;Bengaluru%2C+India" alt="Subtitle" />
-</p>
-
-
-<p align="center">
- <a href="https://devbench.co.in"><img src="https://img.shields.io/badge/DevBench-111111?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/sai-bhargav-rallapalli"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" /></a>
-  <a href="https://twitter.com/rs_bhargav"><img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&amp;logo=x&amp;logoColor=white" /></a>
-  <a href="https://saibhargavr.medium.com/"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&amp;logo=medium&amp;logoColor=white" /></a>
-  <a href="https://kaggle.com/rsbhargav"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&amp;logo=kaggle&amp;logoColor=white" /></a>
-  <a href="mailto:saibhargavrallapalli@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1200&color=a0a0d0&center=true&vCenter=true&width=620&lines=Conversational+AI+Engineer+%C2%B7+Voice+Agents+%C2%B7+LLM-Powered+Systems;Bengaluru%2C+India" alt="Subtitle" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=18&amp;pause=1000&amp;color=7C86FF&amp;center=true&amp;vCenter=true&amp;width=620&amp;lines=Voice+Agents+%7C+Multi-Agent+Systems+%7C+RAG;Low-latency+%E2%80%A2+Real-time+%E2%80%A2+Production-grade;LangGraph+%7C+AutoGen+%7C+LLM+Orchestration;Building+the+next+generation+of+AI+interfaces" alt="Typing SVG" />
+  <a href="https://devbench.co.in"><img src="https://img.shields.io/badge/DevBench-111111?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/sai-bhargav-rallapalli"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/rs_bhargav"><img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://saibhargavr.medium.com/"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
+  <a href="https://kaggle.com/rsbhargav"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
+  <a href="mailto:saibhargavrallapalli@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=saibhargavrallapalli&amp;label=Profile+views&amp;color=7C86FF&amp;style=flat-square" />
-  <img src="https://img.shields.io/github/followers/saibhargavrallapalli?label=Followers&amp;style=flat-square&amp;color=7C86FF" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=7C86FF&center=true&vCenter=true&width=620&lines=Voice+Agents+%7C+Multi-Agent+Systems+%7C+RAG;Low-latency+%E2%80%A2+Real-time+%E2%80%A2+Production-grade;LangGraph+%7C+AutoGen+%7C+LLM+Orchestration;Building+the+next+generation+of+AI+interfaces" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=saibhargavrallapalli&label=Profile+views&color=7C86FF&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/saibhargavrallapalli?label=Followers&style=flat-square&color=7C86FF" />
 </p>
 
 ---
@@ -52,8 +51,18 @@
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![AutoGen](https://img.shields.io/badge/AutoGen-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge&logo=meta&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-000000?style=for-the-badge&logo=anthropic&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-7B2D8B?style=for-the-badge&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+**🎙️ Voice & Real-time**
+
+![LiveKit](https://img.shields.io/badge/LiveKit-01E7FD?style=for-the-badge&logo=webrtc&logoColor=black)
+![Deepgram](https://img.shields.io/badge/Deepgram-1C1C1C?style=for-the-badge&logoColor=white)
+![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge&logoColor=white)
+![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white)
+![OpenAI Realtime](https://img.shields.io/badge/OpenAI_Realtime-412991?style=for-the-badge&logo=openai&logoColor=white)
+![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)
 
 **Backend & APIs**
 
@@ -67,7 +76,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -77,23 +86,37 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=saibhargavrallapalli&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true&amp;include_all_commits=true&amp;rank_icon=github" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saibhargavrallapalli&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=8" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=saibhargavrallapalli&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saibhargavrallapalli&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saibhargavrallapalli&amp;theme=tokyonight&amp;hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=saibhargavrallapalli&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saibhargavrallapalli&amp;theme=tokyo-night&amp;hide_border=true&amp;area=true" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saibhargavrallapalli&theme=tokyo-night&hide_border=true&area=true" width="95%" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=saibhargavrallapalli&theme=tokyonight&no-frame=true&column=7&margin-w=4" width="95%" />
 </p>
 
 ---
 
 ## ✍️ Latest Writing
 
-<!-- BLOG-POST-LIST:START -->- 🚀 [I Stopped Paying for 12 Developer Tools. This Free Toolkit Replaced All of Them.](https://medium.com/codetodeploy/i-stopped-paying-for-12-developer-tools-this-free-toolkit-replaced-all-of-them-3e84d3c661a5?source=rss-b6457c7901af------2)- 💡 [Discover DevBench: 120+ Free Browser-Based Developer Tools](https://blog.stackademic.com/discover-devbench-120-free-browser-based-developer-tools-fd53c267eb28?source=rss-b6457c7901af------2)- 🚀 [Your AI Agent Is a Security Risk. Here’s How to Fix That.](https://medium.com/codetodeploy/your-ai-agent-is-a-security-risk-heres-how-to-fix-that-bc1c250cbbd7?source=rss-b6457c7901af------2)- 🚀 [The Person Who Built Copilot Is Now Questioning Everything About It](https://pub.towardsai.net/the-person-who-built-copilot-is-now-questioning-everything-about-it-4964879bc564?source=rss-b6457c7901af------2)- 💡 [Is AI Making Kubernetes Invisible?](https://medium.com/codetodeploy/is-ai-making-kubernetes-invisible-b9230eeced6d?source=rss-b6457c7901af------2)<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+- 🚀 [I Stopped Paying for 12 Developer Tools. This Free Toolkit Replaced All of Them.](https://medium.com/codetodeploy/i-stopped-paying-for-12-developer-tools-this-free-toolkit-replaced-all-of-them-3e84d3c661a5?source=rss-b6457c7901af------2)
+- 💡 [Discover DevBench: 120+ Free Browser-Based Developer Tools](https://blog.stackademic.com/discover-devbench-120-free-browser-based-developer-tools-fd53c267eb28?source=rss-b6457c7901af------2)
+- 🚀 [Your AI Agent Is a Security Risk. Here's How to Fix That.](https://medium.com/codetodeploy/your-ai-agent-is-a-security-risk-heres-how-to-fix-that-bc1c250cbbd7?source=rss-b6457c7901af------2)
+- 🚀 [The Person Who Built Copilot Is Now Questioning Everything About It](https://pub.towardsai.net/the-person-who-built-copilot-is-now-questioning-everything-about-it-4964879bc564?source=rss-b6457c7901af------2)
+- 💡 [Is AI Making Kubernetes Invisible?](https://medium.com/codetodeploy/is-ai-making-kubernetes-invisible-b9230eeced6d?source=rss-b6457c7901af------2)
+<!-- BLOG-POST-LIST:END -->
 
 > 📖 More on [Medium](https://saibhargavr.medium.com/) · Published in [Towards AI](https://pub.towardsai.net/)
 
@@ -117,20 +140,10 @@
 
 <p align="center">
   <a href="https://ko-fi.com/saibhargavrallapalli">
-    <img src="https://img.shields.io/badge/Support_on_Ko--fi-FF5E5B?style=for-the-badge&amp;logo=ko-fi&amp;logoColor=white" />
+    <img src="https://img.shields.io/badge/Support_on_Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 80" width="900">
-  <defs>
-    <linearGradient id="fbg" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#24243e"/>
-      <stop offset="50%" style="stop-color:#302b63"/>
-      <stop offset="100%" style="stop-color:#0f0c29"/>
-    </linearGradient>
-  </defs>
-  <rect width="900" height="80" fill="url(#fbg)"/>
-  <path d="M0,0 C150,40 300,10 450,30 C600,50 750,15 900,35 L900,0 L0,0Z" fill="rgba(124,134,255,0.06)"/>
-</svg>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer" width="100%" />
 </p>
