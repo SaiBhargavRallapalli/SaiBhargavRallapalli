@@ -21,7 +21,8 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=saibhargavrallapalli&label=Profile+views&color=7C86FF&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/saibhargavrallapalli?label=Followers&style=flat-square&color=7C86FF" />
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/saibhargavrallapalli?style=social&label=Follow" />
 </p>
 
 ---
@@ -103,7 +104,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saibhargavrallapalli&theme=tokyonight&no-frame=true&column=7&margin-w=4" width="95%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=saibhargavrallapalli&theme=tokyonight&no-frame=true&column=6&margin-w=8&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" width="100%" />
 </p>
 
 ---
