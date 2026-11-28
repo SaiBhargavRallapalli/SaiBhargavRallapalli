@@ -113,11 +113,11 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-- 📝 [Jev: The AI Model That Decides Instead of Writes: A Complete Guide From Concept to Production](https://pub.towardsai.net/jev-the-ai-model-that-decides-instead-of-writes-a-complete-guide-from-concept-to-production-5020603d02fd?source=rss-b6457c7901af------2)
-- 📝 [Google’s AI Now Calls Stores For You. Here’s the Problem Nobody’s Built For Yet.](https://medium.com/codetodeploy/googles-ai-now-calls-stores-for-you-here-s-the-problem-nobody-s-built-for-yet-5912dd5a0c15?source=rss-b6457c7901af------2)
-- 📝 [AI Radar #3: 5 Things That Mattered in AI This Week &lpar;And 2 That Didn’t&rpar;](https://medium.com/codetodeploy/ai-radar-3-5-things-that-mattered-in-ai-this-week-and-2-that-didnt-9b4262628e80?source=rss-b6457c7901af------2)
-- 📝 [The Capstone: Building One Real Agent With Everything From This Series](https://blog.gopenai.com/the-capstone-building-one-real-agent-with-everything-from-this-series-23742b41fcc7?source=rss-b6457c7901af------2)
-- 📝 [LangGraph vs CrewAI vs Google ADK: I Built the Same Agent Three Times](https://blog.gopenai.com/langgraph-vs-crewai-vs-google-adk-i-built-the-same-agent-three-times-87c2f2ce3b59?source=rss-b6457c7901af------2)
+- 📝 [CORS Explained for Developers: Why the Browser Blocks Your fetch &lpar;and How to Actually Fix It&rpar;](https://saibhargavr.medium.com/cors-explained-for-developers-why-the-browser-blocks-your-fetch-and-how-to-actually-fix-it-d089f1db381e?source=rss-b6457c7901af------2)
+- 📝 [WebSocket vs Polling: How Real-Time Features Actually Work &lpar;and When Polling Is Fine&rpar;](https://saibhargavr.medium.com/websocket-vs-polling-how-real-time-features-actually-work-and-when-polling-is-fine-e5fab0a0e4a9?source=rss-b6457c7901af------2)
+- 📝 [Git Rebase vs Merge: What Each Actually Does, and the One Rule That Keeps Rebase Safe](https://saibhargavr.medium.com/git-rebase-vs-merge-what-each-actually-does-and-the-one-rule-that-keeps-rebase-safe-94d7e0f3bff5?source=rss-b6457c7901af------2)
+- 📝 [curl Cheat Sheet: The Commands You Actually Use, Explained](https://saibhargavr.medium.com/curl-cheat-sheet-the-commands-you-actually-use-explained-1a475dd1bd65?source=rss-b6457c7901af------2)
+- 📝 [DNS Record Types Explained: A, AAAA, CNAME, MX, TXT, NS, SOA and When Each Matters](https://saibhargavr.medium.com/dns-record-types-explained-a-aaaa-cname-mx-txt-ns-soa-and-when-each-matters-a828605f1361?source=rss-b6457c7901af------2)
 <!-- BLOG-POST-LIST:END -->
 
 > 📖 More on [Medium](https://saibhargavr.medium.com/) · Published in [Towards AI](https://pub.towardsai.net/)
